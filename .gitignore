@@ -1,2 +1,4 @@
 /bin/
 .idea/workspace.xml
+*.xml
+src/.DS_Store
