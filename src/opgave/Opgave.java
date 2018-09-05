@@ -10,6 +10,9 @@ public class Opgave {
 		System.out.println("dit nummer er:");
 		System.out.println(beregn(20, 18));
 
+
+		System.out.println("Skriv noget smart");
+
 	}
 
 	private static int beregn(int tal1, int tal2) {
