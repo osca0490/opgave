@@ -6,6 +6,8 @@ public class Opgave {
 		
 		System.out.println("her er ikke nok til alle");
 		
+
+		
 	}
 
 }
