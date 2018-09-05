@@ -11,7 +11,7 @@ public class Opgave {
 		System.out.println(beregn(20, 18));
 
 
-		System.out.println("Skriv noget smart");
+		System.out.println("Skriv noget meget meget smart");
 
 	}
 
