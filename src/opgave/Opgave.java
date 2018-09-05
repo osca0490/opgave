@@ -6,9 +6,17 @@ public class Opgave {
 		System.out.println("Hello!");
 		
 		System.out.println("her er ikke nok til alle");
-		
+
+
+        System.out.println(beregn(20,18));
 
 		
 	}
+
+	private static int beregn(int tal1, int tal2) {
+	    return tal1 * tal2 / 20;
+    }
+
+
 
 }
