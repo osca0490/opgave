@@ -11,7 +11,11 @@ public class Opgave {
 		System.out.println(beregn(20, 18));
 
 
+<<<<<<< HEAD
 		System.out.println("Skriv noget meget meget smart");
+=======
+		System.out.println("Skriv noget meget smart");
+>>>>>>> 3e7526e5417da1f421ae9813f183717bc97bb7b4
 
 	}
 
